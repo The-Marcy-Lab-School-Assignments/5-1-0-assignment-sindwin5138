@@ -35,6 +35,12 @@ To start this assignment, you will be given a Vite project with all rendering an
 
 There are tests available to you through `npm test`, however, take time to understand the flow of data in the application and test out your code using the running application too.
 
+### Before you begin...
+
+**Reminder**: We are using ES Modules!
+
+Because we are using ES Modules and working in the front end, you cannot test your files individually in Node (the terminal in VS code or otherwise). Make sure that you are using the console in the browser when testing your code.
+
 ### Your Task:
 
 Your job is to build the two classes:
