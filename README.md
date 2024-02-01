@@ -55,6 +55,8 @@ Let's get started! You got this!
 
 ## Part 1: Cart Item
 
+The instructions here are intentionally vague. Look at the associated `.spec.js` files to see how we are using your class!
+
 Create a `CartItem` class.
 
 It should have the following instance properties:
@@ -72,8 +74,8 @@ It should have the following **instance properties**:
 
 It should have the following **instance methods**:
 - `createItem(name, price)`: creates a new CartItem and adds it to the instance's cart
-- `removeItem(id)`: removes an item from the instance's cart based on the given id
 - `getItems()`: returns the array of items held by this `ShoppingCart` instance
+- `removeItem(id)`: removes an item from the instance's cart based on the given id
 - `getTotal()`: returns the total price of all itesm held by this `ShoppingCart` instance
 
 ## Part 3: Shopping Cart Class Properties/Methods
