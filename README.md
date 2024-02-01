@@ -33,7 +33,7 @@ Upon completing this assignment, the user should be able to:
 
 To start this assignment, you will be given a Vite project with all rendering and user event logic implemented for you in the `vite-project` folder! Check out what you are starting with by running `npm run dev` and then browsing through the `src/main.js` file and the `src/utils/` folder.
 
-There are tests available to you through `npm test`, however, take time to understand the flow of data in the application and test out your code using the running application too.
+There are tests available to you through `npm test`. Take time to understand the test and what they are looking for. Understanding the flow of data in the application will also be helpful to test out your code when running application. 
 
 ### Before you begin...
 
